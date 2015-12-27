@@ -1,0 +1,14 @@
+layout_spectrum: 0.1935484
+typography_spectrum: 0.5967742
+color:
+  saturation: 0.6762786
+  lightness: 0.2401434
+  brandStrength: 0.6932992
+  brandColors:
+    - '#D0CEC6'
+    - '#A3202E'
+    - '#302720'
+    - '#5B544B'
+    - '#A3663A'
+  rhythmicContrast: 0.8036647
+name: Euino
